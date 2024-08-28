@@ -43,6 +43,10 @@ const App = () => {
                 <button className="bg-gradient-to-r from-[#c6483c] to-[#ca2e5d] rounded-full text-white px-8 py-2 text-xl flex items-center">
                   Join our team <FaArrowRightLong className="ml-2 mt-[6px]" />
                 </button>
+                <div className="flex items-end bg-blue-500">
+                <button className="text-white">sds</button>
+
+                </div>
               </div>
             </div>
           </div>
