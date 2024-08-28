@@ -53,11 +53,18 @@ const FourthPage = () => {
           className="h-48 w-48 object-cover rounded-full"
         />
       </div>
-      {/* <img
-          src="https://images.unsplash.com/photo-1687887627177-d8fa77206852?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA2fHxmcmllbmRzJTIwYXQlMjBwYXJ0eXxlbnwwfHwwfHx8MA%3D%3D"
+     <div className="flex w-full gap-[58vw] mr-20">
+     <img
+          src="https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg?auto=compress&cs=tinysrgb&w=600"
           alt="img 404"
-          className="h-48 w-48 object-cover rounded-full"
-        /> */}
+          className="h-48 -ml-16 w-48 object-cover rounded-full opacity-30"
+        />
+      <img
+          src="https://images.pexels.com/photos/2747446/pexels-photo-2747446.jpeg?auto=compress&cs=tinysrgb&w=600"
+          alt="img 404"
+          className="h-48 w-48 object-cover rounded-full opacity-30 "
+        />
+     </div>
     </div>
   </div>
   )
