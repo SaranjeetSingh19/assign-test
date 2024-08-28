@@ -22,15 +22,15 @@ const SixthPage = () => {
               <button
                 className="text-white
               -left-16 top-10 -rotate-12
-              absolute bg-gradient-to-l from-[#414248] to-[#17141b] rounded-3xl text-xl border border-slate-400 px-7 py-2"
+              absolute bg-gradient-to-l from-[#414248] to-[#17141b] rounded-3xl text-2xl border border-slate-400 px-7 py-2"
               >
                 Fun
               </button>
 
               <button
                 className="text-white
-              -right-16 -top-2 rotate-[8deg]
-              absolute bg-gradient-to-l from-[#414248] to-[#17141b] rounded-3xl text-xl border border-slate-400 px-7 py-2"
+              -right-16 -top-4 rotate-[8deg]
+              absolute bg-gradient-to-l from-[#414248] to-[#17141b] rounded-3xl text-2xl border border-slate-400 px-7 py-2"
               >
                Inclusive
               </button>
